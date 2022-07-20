@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.mystic.eating.mixin",
+  "refmap": "refmap.eating.json",
+  "mixins": [
+    "MixinEating"
+  ],
+  "client": [],
+  "server": []
+}

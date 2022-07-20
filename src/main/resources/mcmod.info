@@ -7,7 +7,7 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ${mod_author},
+  "authorList": "Mysticpasta1",
   "credits": "",
   "logoFile": "",
   "screenshots": [],
